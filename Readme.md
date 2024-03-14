@@ -8,4 +8,4 @@ _what im writing in here is all italics_
 
 ~~This is cut anything~~
 
-[click here for visiting google](www.google.com)
+[click here for visiting google](https://www.google.com "google")
