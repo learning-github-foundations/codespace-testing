@@ -26,3 +26,9 @@ required_providers = {
 |animal|fruit|transport|
 
 >keep smiling and this should be highlighted in the md file
+
+1. This is one
+2. This is two
+3. this is three - even if you write wrong numbers here inside -outside will show correct format only
+   - and this is my first bullet point
+   - and this is my second bullet point
