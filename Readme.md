@@ -20,3 +20,7 @@ terraform{
 required_providers = {
 }
 ```
+
+|My|First|Table|
+|---|---|---|
+|animal|fruit|transport|
