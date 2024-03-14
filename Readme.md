@@ -11,3 +11,12 @@ _what im writing in here is all italics_
 [click here for visiting google](https://www.google.com "google")
 
 ![Spiderman](https://learncodeonline.in/mascot.png)
+
+this is a `for` loop
+
+and this is used to highlight any code
+```
+terraform{
+required_providers = {
+}
+```
