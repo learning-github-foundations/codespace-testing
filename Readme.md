@@ -32,3 +32,10 @@ required_providers = {
 3. this is three - even if you write wrong numbers here inside -outside will show correct format only
    - and this is my first bullet point
    - and this is my second bullet point
+  
+
+This is one way of making horizontal line
+---
+
+and this is second way of making horizontal line in md file
+***
